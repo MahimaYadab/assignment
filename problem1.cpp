@@ -1,4 +1,4 @@
-//removing all adjacent duplicates in string using stack
+//removing adjacent duplicates in string using stack
 #include <iostream>
 #include <stack>
 #include <algorithm>
